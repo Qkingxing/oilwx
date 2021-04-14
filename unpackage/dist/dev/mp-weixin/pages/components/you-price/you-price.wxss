@@ -1,0 +1,16 @@
+
+.border-nav.data-v-9d148b32 {
+	border-bottom: 6rpx solid #7C7EE2 !important;
+}
+.you-bg.data-v-9d148b32 {
+	width: 250rpx;
+}
+.colorbg.data-v-9d148b32 {
+	width: 26rpx;
+	height: 40rpx;
+	margin: 0 20rpx;
+}
+.padding-b100.data-v-9d148b32{
+	padding-bottom: 100rpx;
+}
+

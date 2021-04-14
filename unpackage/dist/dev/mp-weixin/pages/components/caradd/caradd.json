@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "plate-input": "/common/uni-plate-input/uni-plate-input"
+  }
+}

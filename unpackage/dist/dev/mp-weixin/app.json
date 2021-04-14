@@ -1,0 +1,85 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/shop/index",
+    "pages/order/index",
+    "pages/user/index",
+    "pages/login/wx_login",
+    "pages/components/coupon-list/coupon-list",
+    "pages/components/coupon-list/coupon",
+    "pages/components/comecard/comecard",
+    "pages/components/shopdetail/shopdetail",
+    "pages/components/ordertrue/ordertrue",
+    "pages/components/seting/seting",
+    "pages/components/station/station",
+    "pages/components/you-price/you-price",
+    "pages/components/shanpay/shanpay",
+    "pages/components/gunorder/gunorder",
+    "pages/components/ewm/ewm",
+    "pages/components/setmail/setmail",
+    "pages/components/gaddress/gaddress",
+    "pages/components/addaddress/addaddress",
+    "pages/components/addinvoice/addinvoice",
+    "pages/components/invoicelist/invoicelist",
+    "pages/components/carlist/carlist",
+    "pages/components/caradd/caradd",
+    "pages/components/oeder/oeder"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarBackgroundColor": "#7C7EE2",
+    "navigationBarTitleText": "油客云",
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#030945",
+    "selectedColor": "#7C7EE2",
+    "borderStyle": "black",
+    "backgroundColor": "#FFFFFF",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "/static/tabbar/Index.png",
+        "selectedIconPath": "/static/tabbar/Index_cur.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/shop/index",
+        "iconPath": "/static/tabbar/Shop.png",
+        "selectedIconPath": "/static/tabbar/Shop_cur.png",
+        "text": "商城"
+      },
+      {
+        "pagePath": "pages/order/index",
+        "iconPath": "/static/tabbar/Order.png",
+        "selectedIconPath": "/static/tabbar/Order_cur.png",
+        "text": "订单"
+      },
+      {
+        "pagePath": "pages/user/index",
+        "iconPath": "/static/tabbar/User.png",
+        "selectedIconPath": "/static/tabbar/User_cur.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "您的地理位置将用于小程序接口位置展示"
+    }
+  },
+  "uniStatistics": {
+    "enable": true
+  },
+  "usingComponents": {
+    "index": "/pages/index/index",
+    "shop": "/pages/shop/index",
+    "order": "/pages/order/index",
+    "user": "/pages/user/index",
+    "cu-custom": "/colorui/components/cu-custom",
+    "cuxian": "/colorui/components/cu-xian",
+    "lb-picker": "/common/lb-picker/index"
+  },
+  "sitemapLocation": "sitemap19.json"
+}

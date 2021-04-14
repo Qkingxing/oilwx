@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "selector-picker": "/common/lb-picker/pickers/selector-picker",
+    "multi-selector-picker": "/common/lb-picker/pickers/multi-selector-picker",
+    "unlinked-selector-picker": "/common/lb-picker/pickers/unlinked-selector-picker"
+  }
+}

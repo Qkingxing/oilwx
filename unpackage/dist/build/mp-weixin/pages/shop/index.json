@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "shopcart": "/colorui/components/shop/shopcart",
+    "cartcontrol": "/colorui/components/shop/cartcontrol"
+  }
+}

@@ -1,0 +1,39 @@
+
+.topcur.data-v-0ca91b30 {
+	border-bottom: 3px solid #7C7EE2;
+	display: inline-block;
+	padding: 0 10rpx;
+}
+.top-nav.data-v-0ca91b30{
+	position: fixed;
+	z-index: 999;
+	left:0;
+}
+.nav .cu-item.data-v-0ca91b30 {
+	line-height: 80rpx;
+}
+.orderlist.data-v-0ca91b30 {
+	border-top: 10rpx solid #f0f0f0;
+}
+.wxicon-out.data-v-0ca91b30 {
+	width: 160rpx;
+}
+.wxicon-out image.data-v-0ca91b30 {
+	width: 36rpx;
+}
+.shopimg.data-v-0ca91b30 {
+	width: 150rpx;
+	height: 150rpx;
+}
+.search-out.data-v-0ca91b30{
+	width: 100rpx;
+}
+.search-out .shu.data-v-0ca91b30{
+	height: 90rpx;
+	width: 16rpx;
+}
+.search-out .search.data-v-0ca91b30{
+	width: 56rpx;
+	margin:20rpx;
+}
+

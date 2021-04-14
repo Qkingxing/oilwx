@@ -1,0 +1,19 @@
+
+.list.data-v-0224c1fb{
+	height: 110rpx;
+	border-bottom: 2rpx solid #F0F0F0;
+}
+.list .icon.data-v-0224c1fb{
+	width: 42rpx;
+	margin-right: 30rpx;
+}
+.xyjt.data-v-0224c1fb{
+	width: 14rpx;
+	height: 14rpx;
+	border-top: 2rpx solid #040A46;
+	border-right: 2rpx solid #040A46;
+	-webkit-transform: rotate(45deg);
+	        transform: rotate(45deg);
+	margin-left: 30rpx;
+}
+

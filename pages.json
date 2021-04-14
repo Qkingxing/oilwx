@@ -1,0 +1,126 @@
+{
+	"pages": [
+		// {
+		// 	"path": "pages/home/home"
+		// },{
+		//           "path" : "pages/login/wx_login" 
+		//       },{
+		//           "path" : "pages/order/index" 
+		//       },{
+		//           "path" : "pages/components/coupon-list/coupon-list" 
+		//       },{
+		//           "path" : "pages/components/coupon-list/coupon" 
+		//       },{
+		//           "path" : "pages/components/comecard/comecard"
+		//       },{
+		//           "path" : "pages/components/shopdetail/shopdetail"
+		//       },{
+		//           "path" : "pages/components/ordertrue/ordertrue"    
+		//       },{
+		//           "path" : "pages/components/seting/seting"   
+		//       },{
+		//           "path" : "pages/components/station/station"
+		//       },{
+		//           "path" : "pages/components/you-price/you-price"
+		//       }
+
+		{
+			"path": "pages/index/index"
+		}, {
+			"path": "pages/shop/index"
+		}, {
+			"path": "pages/order/index"
+		}, {
+			"path": "pages/user/index"
+		}, {
+			"path": "pages/login/wx_login"
+		}, {
+			"path": "pages/components/coupon-list/coupon-list"
+		}, {
+			"path": "pages/components/coupon-list/coupon"
+		}, {
+			"path": "pages/components/comecard/comecard"
+		}, {
+			"path": "pages/components/shopdetail/shopdetail"
+		}, {
+			"path": "pages/components/ordertrue/ordertrue"
+		}, {
+			"path": "pages/components/seting/seting"
+		}, {
+			"path": "pages/components/station/station"
+		}, {
+			"path": "pages/components/you-price/you-price"
+		}, {
+			"path": "pages/components/shanpay/shanpay"
+		}, {
+			"path": "pages/components/gunorder/gunorder"
+		}, {
+			"path": "pages/components/ewm/ewm"
+		}, {
+			"path": "pages/components/setmail/setmail"
+		}, {
+			"path": "pages/components/gaddress/gaddress"
+		}, {
+			"path": "pages/components/addaddress/addaddress"
+		}, {
+			"path": "pages/components/addinvoice/addinvoice"
+		}, {
+			"path": "pages/components/invoicelist/invoicelist"
+		}, {
+			"path": "pages/components/carlist/carlist"
+		}, {
+			"path": "pages/components/caradd/caradd"
+		}
+        ,{
+            "path" : "pages/components/oeder/oeder",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarBackgroundColor": "#7C7EE2",
+		"navigationBarTitleText": "油客云",
+		"navigationStyle": "custom",
+		"navigationBarTextStyle": "white"
+	},
+	"tabBar": {
+		"color": "#030945",
+		"selectedColor": "#7C7EE2",
+		"borderStyle": "black",
+		"backgroundColor": "#FFFFFF",
+		"list": [{
+			"pagePath": "pages/index/index",
+			"iconPath": "/static/tabbar/Index.png",
+			"selectedIconPath": "/static/tabbar/Index_cur.png",
+			"text": "首页"
+		}, {
+			"pagePath": "pages/shop/index",
+			"iconPath": "/static/tabbar/Shop.png",
+			"selectedIconPath": "/static/tabbar/Shop_cur.png",
+			"text": "商城"
+		}, {
+			"pagePath": "pages/order/index",
+			"iconPath": "/static/tabbar/Order.png",
+			"selectedIconPath": "/static/tabbar/Order_cur.png",
+			"text": "订单"
+		}, {
+			"pagePath": "pages/user/index",
+			"iconPath": "/static/tabbar/User.png",
+			"selectedIconPath": "/static/tabbar/User_cur.png",
+			"text": "我的"
+		}]
+	},
+	"usingComponts": true,
+	"condition": { //模式配置，仅开发期间生效
+		"current": 0, //当前激活的模式(list 的索引项)
+		"list": [{
+			"name": "", //模式名称
+			"path": "pages/components/gaddress/gaddress", //启动页面
+			"query": "" //启动参数
+		}]
+	}
+}

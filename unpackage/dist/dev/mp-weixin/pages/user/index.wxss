@@ -1,0 +1,102 @@
+
+.bgtop.data-v-137d5072{
+	position: relative;
+	height: 460rpx;
+}
+.bgimg.data-v-137d5072{
+	width: 100%;
+	position: absolute;
+	left:0rpx;
+	top:0rpx;
+	z-index: 1;
+}
+.bgcon.data-v-137d5072{
+	position: absolute;
+	left:30rpx;
+	top:60rpx;
+	z-index: 2;
+}
+.gologin.data-v-137d5072{
+	position: absolute;
+	left:30rpx;
+	top:60rpx;
+	z-index: 2;
+	color: #fff;
+	font-size: 38rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.gologin image.data-v-137d5072{
+	width: 90rpx;
+	height: 90rpx;
+}
+.gologin text.data-v-137d5072{
+	color: #FFFFFF;
+	font-size: 38rpx;
+	display: block;
+	margin-left: 36rpx;
+}
+.setting.data-v-137d5072{
+	position: absolute;
+	z-index: 6;
+	right: 10rpx;
+	top:20rpx;
+	font-size: 40rpx;
+	padding:40rpx;
+}
+.vip.data-v-137d5072{
+	width: 36rpx;
+}
+.user-tx.data-v-137d5072{
+	width: 110rpx;
+	height: 110rpx;
+	border-radius: 50%;
+}
+.chang.data-v-137d5072{
+	width: 100%;
+	position: absolute;
+	left:0rpx;
+	top:240rpx;
+	z-index: 3;
+}
+.chang-out.data-v-137d5072{
+	position: relative;
+}
+.chang-bg.data-v-137d5072{
+	width: 100%;
+	position: absolute;
+	left:0;
+	top:0;
+	z-index: 5;
+}
+.chang-con.data-v-137d5072{
+	width: 100%;
+	position: absolute;
+	left:0;
+	top:0;
+	z-index: 6;
+	height: 220rpx;
+}
+.shuxian.data-v-137d5072{
+	width: 2rpx;
+	height: 60rpx;
+	background: #E9EAEF;
+}
+.orderout.data-v-137d5072{
+}
+.orderlist.data-v-137d5072{
+	width: 25%;
+	text-align: center;
+}
+.ordericon.data-v-137d5072{
+	width: 40rpx;
+}
+.border-b.data-v-137d5072{
+	border-bottom: 10rpx solid #F0F0F0;
+}
+
+

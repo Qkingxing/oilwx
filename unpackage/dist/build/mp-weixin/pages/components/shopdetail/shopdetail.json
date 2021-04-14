@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "cartcontrol": "/colorui/components/shop/cartcontrol"
+  }
+}

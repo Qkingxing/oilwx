@@ -1,0 +1,37 @@
+
+.no-data.data-v-9cfb57d6 {
+	text-align: center;
+	margin-top: 80rpx;
+}
+.no-data image.data-v-9cfb57d6 {
+	width: 330rpx;
+	height: 300rpx;
+}
+.two-btn.data-v-9cfb57d6{
+	width: 560rpx;
+	margin:auto;
+	margin-top:108rpx;
+}
+.icons-out.data-v-9cfb57d6{
+	margin-left: 40rpx;
+}
+.addbtn.data-v-9cfb57d6{
+	position: fixed;
+	bottom: 50rpx;
+	left:0;
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	z-index: 66;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.addbtn button.data-v-9cfb57d6{
+	width: 600rpx;
+}
+.border-bo-20.data-v-9cfb57d6{
+	border-bottom:10rpx solid #f0f0f0;
+}
+

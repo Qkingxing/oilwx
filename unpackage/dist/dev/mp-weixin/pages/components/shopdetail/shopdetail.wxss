@@ -1,0 +1,59 @@
+
+.tower-swiper .tower-item.data-v-5d76df62 {
+	-webkit-transform: scale(calc(0.5 + var(--index) / 10));
+	        transform: scale(calc(0.5 + var(--index) / 10));
+	margin-left: calc(var(--left) * 100rpx - 150rpx);
+	z-index: var(--index);
+}
+.contss.data-v-5d76df62{
+	width:100%;
+}
+.ccyc0.data-v-5d76df62 {
+	line-clamp: 2;
+}
+.syyz.data-v-5d76df62 {
+	width: 560rpx;
+}
+.imgdeta.data-v-5d76df62 {
+	width: 100%;
+	font-size: 0;
+	line-height: 0;
+	display: block;
+}
+.bottom.data-v-5d76df62 {
+	height: 100rpx;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	z-index: 999;
+	background: #FFFFFF;
+}
+.h-100.data-v-5d76df62 {
+	height: 100rpx;
+}
+.bott-icon.data-v-5d76df62 {
+	width: 32rpx;
+	display: block;
+	margin: auto
+}
+.imgst.data-v-5d76df62 {
+	width: 200rpx;
+}
+.food-control.data-v-5d76df62 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	-webkit-justify-content: space-around;
+	        justify-content: space-around;
+}
+.cont.data-v-5d76df62 {
+	width: 22px;
+	height: 22px;
+	box-sizing: border-box;
+	border-radius: 50%;
+	text-align: center;
+}
+

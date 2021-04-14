@@ -1,0 +1,38 @@
+
+.cu-form-group .title.data-v-c1cc91a2 {
+	width: 216rpx;
+}
+.btn-out.data-v-c1cc91a2 {
+	width: 600rpx;
+	margin: auto;
+	margin-top: 160rpx
+}
+.xyjt.data-v-c1cc91a2 {
+	width: 20rpx;
+	height: 20rpx;
+	border-top: 2rpx solid #040A46;
+	border-right: 2rpx solid #040A46;
+	-webkit-transform: rotate(45deg);
+	        transform: rotate(45deg);
+}
+
+/* .radios >>> wx-radio .uni-radio-input{
+	width: 32upx;
+	height: 32upx;
+} */
+
+/* .radios radio .wx-radio-input,
+.radios radio .uni-radio-input
+ {
+	margin: 0;
+	width: 36upx;
+	height: 36upx;
+} */
+.radios.data-v-c1cc91a2 wx-radio::before{
+	font-size: 26rpx;
+	right: 8rpx;
+}
+.radios .inline-block.data-v-c1cc91a2:last-child{
+	margin-left: 50rpx;
+}
+

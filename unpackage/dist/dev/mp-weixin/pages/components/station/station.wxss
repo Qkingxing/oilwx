@@ -1,0 +1,19 @@
+
+page.data-v-f66274ce{
+	background: #F5F5F5;
+}
+.tx.data-v-f66274ce{
+	width: 50rpx;
+	height: 50rpx;
+}
+.dh.data-v-f66274ce{
+}
+.dh image.data-v-f66274ce{
+	width: 32rpx;
+	height: 32rpx;
+	margin-right: 20rpx;
+	display: inline-block;
+	vertical-align: text-top;
+}
+
+

@@ -1,0 +1,98 @@
+
+.content.data-v-160b8d32 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	position: absolute;
+	top: 230rpx;
+	bottom: 110rpx;
+	width: 100%;
+	overflow: hidden;
+}
+.current.data-v-160b8d32 {
+	position: relative;
+	z-index: 0;
+	background-color: #fff;
+	color: #7C7EE2;
+	border-left: 5px solid #7C7EE2;
+}
+.menu-wrapper.data-v-160b8d32 {
+	text-align: center;
+	width: 22%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	background: #f3f5f7;
+}
+.menu-item.data-v-160b8d32 {
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	height: 50px;
+}
+.allcount.data-v-160b8d32 {
+	position: absolute;
+	right: 6px;
+	top: 8px;
+	display: inline-block;
+	padding: 0 4px;
+	font-size: 9px;
+	line-height: 16px;
+	font-weight: 400;
+	border-radius: 50%;
+	background-color: #f01414;
+	color: #ffffff;
+}
+.foods-wrapper.data-v-160b8d32 {
+	margin-left: 4px;
+	width: 78%;
+}
+.food.data-v-160b8d32,
+.food-btm.data-v-160b8d32,
+.content.data-v-160b8d32 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+}
+.food-title.data-v-160b8d32 {
+	padding: 2px 0;
+}
+.food-info.data-v-160b8d32 {
+	margin-left: 10px;
+	margin-right: 16px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-flex: 2;
+	-webkit-flex: 2;
+	        flex: 2;
+}
+.food-btm.data-v-160b8d32 {
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.food-price.data-v-160b8d32 {
+	color: #f01414;
+	font-size: 16px;
+}
+

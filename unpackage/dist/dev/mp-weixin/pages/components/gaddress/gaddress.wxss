@@ -1,0 +1,18 @@
+
+.no-data.data-v-dac34de2 {
+	text-align: center;
+	margin-top: 80rpx;
+}
+.no-data image.data-v-dac34de2 {
+	width: 330rpx;
+	height: 300rpx;
+}
+.two-btn.data-v-dac34de2{
+	width: 560rpx;
+	margin:auto;
+	margin-top:108rpx;
+}
+.icons-out.data-v-dac34de2{
+	margin-left: 40rpx;
+}
+
